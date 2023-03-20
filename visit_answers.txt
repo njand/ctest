@@ -1,3 +1,4 @@
+LEFT,RIGHT
 l,as
 or,ar
 ben,dijo
