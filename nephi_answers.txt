@@ -1,4 +1,3 @@
-LEFT,RIGHT
 por,que
 redi,midos
 l,a

@@ -1,4 +1,3 @@
-LEFT,RIGHT
 u,na
 d,e
 e,n

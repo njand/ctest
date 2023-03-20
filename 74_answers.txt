@@ -1,4 +1,3 @@
-LEFT,RIGHT
 dar,emos
 d,e
 to,do

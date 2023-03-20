@@ -1,4 +1,3 @@
-LEFT,RIGHT
 r,ey
 s,us
 l,e

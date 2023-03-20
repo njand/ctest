@@ -1,4 +1,3 @@
-LEFT,RIGHT
 pe,sar
 nues,tras
 inten,ciones

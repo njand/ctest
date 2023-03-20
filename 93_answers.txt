@@ -1,4 +1,3 @@
-LEFT,RIGHT
 viaj,aron
 carr,etas
 ot,ros

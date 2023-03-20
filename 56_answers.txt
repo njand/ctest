@@ -1,4 +1,3 @@
-LEFT,RIGHT
 q,ue
 l,o
 l,a

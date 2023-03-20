@@ -1,4 +1,3 @@
-LEFT,RIGHT
 l,os
 pue,blo
 deb,ían

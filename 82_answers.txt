@@ -1,4 +1,3 @@
-LEFT,RIGHT
 u,n
 pa,ra
 apre,ndas

@@ -1,4 +1,3 @@
-LEFT,RIGHT
 las
 que
 había

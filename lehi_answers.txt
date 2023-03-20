@@ -1,4 +1,3 @@
-LEFT,RIGHT
 ca,usa
 su,eño
 s,e

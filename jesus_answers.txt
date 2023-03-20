@@ -1,4 +1,3 @@
-LEFT,RIGHT
 di,jo
 cua,ndo
 nac,iera

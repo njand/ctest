@@ -1,4 +1,3 @@
-LEFT,RIGHT
 s,i
 hom,bres
 m,í

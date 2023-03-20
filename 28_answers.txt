@@ -1,4 +1,3 @@
-LEFT,RIGHT
 come,nzado
 pand,emia
 ha,cía

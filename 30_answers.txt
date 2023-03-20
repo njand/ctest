@@ -1,4 +1,3 @@
-LEFT,RIGHT
 sie,mpre
 resu,ltado
 supe,rior
